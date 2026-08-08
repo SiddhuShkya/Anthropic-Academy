@@ -2,8 +2,6 @@
 
 > Video Link: [Response Streaming](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287734)
 
-> Notebook: [005_streaming.ipynb](../../notebooks/005_streaming.ipynb)
-
 When building chat applications with Claude, there's a significant user experience challenge: responses can take 10-30 seconds to generate, leaving users staring at a loading spinner. The solution is response streaming, which lets users see text appear chunk by chunk as Claude generates it, creating a much more responsive feel.
 
 <img src="../../images/fundamentals/claude-response-streaming.png" alt="image" width="100%"/>

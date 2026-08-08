@@ -2,8 +2,6 @@
 
 > Video Link: [Multi-Turn Conversations](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287735)
 
-> Notebook: [002_requests.ipynb](../../notebooks/002_requests.ipynb)
-
 When working with the Anthropic API and Claude, there's a crucial concept you need to understand: Claude doesn't store any of your conversation history. Each request you make is completely independent, with no memory of previous exchanges.
 
 <img src="../../images/fundamentals/multi-turn-coversation.png" alt="image" width="100%"/>

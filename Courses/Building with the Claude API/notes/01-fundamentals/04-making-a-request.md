@@ -4,8 +4,6 @@ Making your first request to the Anthropic API is straightforward once you under
 
 > Video Link: [Making a Request](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287725)
 
-> Notebook: [001_requests.ipynb](../../notebooks/001_requests.ipynb)
-
 ## Setting Up Your Environment
 
 Before making any API calls, you need to install the required packages and configure your API key securely.

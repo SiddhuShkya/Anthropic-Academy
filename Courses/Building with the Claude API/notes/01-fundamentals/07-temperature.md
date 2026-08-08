@@ -2,8 +2,6 @@
 
 > Video Link: [Temperature](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287728)
 
-> Notebook: [004_temperature.ipynb](../../notebooks/004_temperature.ipynb)
-
 Temperature is a powerful parameter that controls how predictable or creative Claude's responses will be. Understanding how to use it effectively can dramatically improve your AI applications.
 
 ## How Claude Generates Text

@@ -2,8 +2,6 @@
 
 > Video Link: [System Prompts](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287733)
 
-> Notebook: [003_system_prompts.ipynb](../../notebooks/003_system_prompts.ipynb)
-
 System prompts are a powerful way to customize how Claude responds to user input. Instead of getting generic answers, you can shape Claude's tone, style, and approach to match your specific use case.
 
 <img src="../../images/fundamentals/system-prompt.png" alt="image" width="100%"/>
