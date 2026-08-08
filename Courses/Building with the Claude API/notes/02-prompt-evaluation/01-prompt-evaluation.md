@@ -1,5 +1,7 @@
 # Prompt evaluation
 
+> Video Link: [Prompt Evaluation](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287731)
+
 When working with Claude, writing a good prompt is just the beginning. To build reliable AI applications, you need to understand two critical concepts: prompt engineering and prompt evaluation. Prompt engineering gives you techniques for writing better prompts, while prompt evaluation helps you measure how well those prompts actually work.
 
 <img src="../../images/prompt-evaluation/improving-and-evaluating-prompt.png" alt="image" width="100%"/>

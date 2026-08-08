@@ -1,5 +1,7 @@
 # A typical eval workflow
 
+> Video Link: [Typical Prompt Eval Workflow](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287736)
+
 A typical prompt evaluation workflow follows five key steps that help you systematically improve your prompts through objective measurement. While there are many different ways to assemble these workflows and various open source and paid tools available, understanding the core process helps you start small and scale up as needed.
 
 <img src="../../images/prompt-evaluation/prompt-eval-workflow.png" alt="image" width="100%"/>
