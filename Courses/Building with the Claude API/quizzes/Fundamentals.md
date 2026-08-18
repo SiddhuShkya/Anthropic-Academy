@@ -1,4 +1,4 @@
-# Claude API Fundamentals Quiz
+# Claude API Fundamentals
 
 ## Question 1
 **You want to send a request to Claude's API. What's the minimum information you must include?**
