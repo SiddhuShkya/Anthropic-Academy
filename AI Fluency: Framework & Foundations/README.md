@@ -30,7 +30,7 @@ Develop hands-on competencies for effective AI collaboration through the four co
 <table>
   <tr>
     <td width="180">
-      <img src="../images/drew-bent.png" alt="instructor" width="160"/>
+      <img src="../images/AI-Fluency/drew-bent.png" alt="instructor" width="160"/>
     </td>
     <td>
       <strong>Drew Bent</strong> leads education research at Anthropic. He previously co-founded the tutoring non-profit Schoolhouse.world with Sal Khan, which he ran from 2020-24 and now sits on the board. Prior to that, he wrote code at Khan Academy, taught high school math, and has been tutoring students for over a decade. Drew has degrees in physics & CS from MIT, and an education master's from Stanford.
@@ -38,7 +38,7 @@ Develop hands-on competencies for effective AI collaboration through the four co
   </tr>
   <tr>
     <td width="180">
-      <img src="../images/rick-dakan.png" alt="instructor" width="160"/>
+      <img src="../images/AI-Fluency/rick-dakan.png" alt="instructor" width="160"/>
     </td>
     <td>
       <strong>Rick Dakan</strong> Rick is the AI Coordinator and a professor at Ringling College of Art and Design in Sarasota, Florida where he teaches creative writing, interactive experience design, and AI courses. He also oversees the college's Undergraduate Certificate in Artificial Intelligence and the Professional Certificate in Fundamentals of AI for Creatives. He is a game designer and author of more than thirty games and books from video games and tabletop games to novels, nonfiction, and comics.
@@ -46,7 +46,7 @@ Develop hands-on competencies for effective AI collaboration through the four co
   </tr>
   <tr>
     <td width="180">
-      <img src="../images/joseph-feller.png" alt="instructor" width="160"/>
+      <img src="../images/AI-Fluency/joseph-feller.png" alt="instructor" width="160"/>
     </td>
     <td>
       <strong>Joseph Feller</strong> is Professor of Information Systems and Digital Transformation at the Cork University Business School, University College Cork, Ireland. His current work focuses on AI-human hybrid creativity, innovation, and learning. His research has been published in Information Systems Research, Journal of MIS, Journal of the AIS, Journal of Information Technology, Information Systems Journal, European Journal of Information Systems, and Journal of Strategic Information Systems, and has been funded by the European Commission, Irish Research Council, Irish HEA, and other funding bodies.
@@ -54,7 +54,7 @@ Develop hands-on competencies for effective AI collaboration through the four co
   </tr>
   <tr>
     <td width="180">
-      <img src="../images/maggie-vo.png" alt="instructor" width="160"/>
+      <img src="../images/AI-Fluency/maggie-vo.png" alt="instructor" width="160"/>
     </td>
     <td>
       <strong>Maggie Vo</strong>  founded and leads Anthropic's education team. She has a varied applied research background from Harvard University, with a career and education that spans fields such as game design, organizational behavior, tech and consumer goods, and human behavioral psychology. Maggie has held previous roles at top consulting firms and innovative startups alike. Prior to Anthropic, she worked in AI strategy consulting.
