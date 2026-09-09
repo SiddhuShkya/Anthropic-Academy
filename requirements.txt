@@ -1,3 +1,5 @@
 ipykernel
+ipywidgets
 python-dotenv
 anthropic
+voyageai
