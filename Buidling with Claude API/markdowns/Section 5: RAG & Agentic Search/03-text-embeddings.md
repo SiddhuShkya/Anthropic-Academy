@@ -1,5 +1,7 @@
 # Text embeddings
 
+> Video Link: [Text Embeddings](https://anthropic.skilljar.com/claude-with-the-anthropic-api/287759)
+
 After breaking a document into chunks, the next step in a RAG pipeline is finding which chunks are most relevant to a user's question. This is essentially a search problem - you need to look through all your text chunks and identify the ones that relate to what the user is asking about.
 
 <img src="../../../images/Builiding-With-Claude-API/RAG/relevant-chunk.png" alt="image" width="100%"/>
