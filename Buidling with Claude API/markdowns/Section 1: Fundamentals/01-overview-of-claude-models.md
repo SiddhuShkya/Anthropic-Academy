@@ -24,7 +24,7 @@ Claude has three model families, each optimized for different priorities.
 
 ---
 
-<img src="../../images/fundamentals/picking-right-model.png" alt="image" width="100%"/>
+<img src="../../../images/Builiding-With-Claude-API/fundamentals/picking-right-model.png" alt="image" width="100%"/>
 
 ## Common Approach
 
